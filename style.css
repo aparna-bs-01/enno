@@ -1,0 +1,106 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+.bg-white {
+  box-shadow: rgb(38, 57, 77) 0px 20px 30px -10px;
+}
+.navbar-brand {
+  font-size: 30px;
+  font-weight: bold;
+}
+.start {
+  background-color: white;
+  color: gray;
+  border-color: gray;
+}
+.start:hover {
+  background-color: #4c88fc;
+  color: gray;
+  border-color: #4c88fc;
+}
+.get {
+  background-color: aquamarine;
+  color: white;
+  border-color: gray;
+  width: 170px;
+}
+.hero {
+  background-image: url("hero.jpg");
+  height: 600px;
+  width: 800px;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+.about {
+  background-image: url("about.jpg");
+  height: 600px;
+  width: 600px;
+  background-repeat: no-repeat;
+  background-size: contain;
+}
+.img1 {
+  background-image: url("portfolio.jpg");
+  height: 400px;
+  width: 500px;
+  background-repeat: no-repeat;
+  background-size: contain;
+}
+.img2 {
+  background-image: url("portfolio6.jpg");
+  height: 600px;
+  width: 500px;
+  background-repeat: no-repeat;
+  background-size: contain;
+}
+.img3 {
+  background-image: url("portfolio2.jpg");
+  height: 400px;
+  width: 300px;
+  background-repeat: no-repeat;
+  background-size: contain;
+}
+.img4 {
+  background-image: url("portfolio5.jpg");
+  height: 600px;
+  width: 300px;
+  background-repeat: no-repeat;
+  background-size: contain;
+}
+.img5 {
+  background-image: url("portfolio9.jpg");
+  height: 600px;
+  width: 300px;
+  background-repeat: no-repeat;
+  background-size: contain;
+}
+.img6 {
+  background-image: url("portfolio3.jpg");
+  height: 400px;
+  width: 300px;
+  background-repeat: no-repeat;
+  background-size: contain;
+}
+.img7 {
+  background-image: url("portfolio4.jpg");
+  height: 400px;
+  width: 300px;
+  background-repeat: no-repeat;
+  background-size: contain;
+}
+.img8 {
+  background-image: url("portfolio7.jpg");
+  height: 400px;
+  width: 300px;
+  background-repeat: no-repeat;
+  background-size: contain;
+}
+.img9 {
+  background-image: url("portfolio8.jpg");
+  height: 400px;
+  width: 300px;
+  background-repeat: no-repeat;
+  background-size: contain;
+}
